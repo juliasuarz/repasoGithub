@@ -31,5 +31,7 @@ hola me llamo _julia_
 </html>
 ````[link] (URL "Texto alternativo")
 
+![wiki](1200px-Wikipedia-logo-v2.svg.png)
+
   
     

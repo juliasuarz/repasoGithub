@@ -24,12 +24,13 @@ hola me llamo _julia_
 + primer elemento lista desordenada
 + segundo elemento lista desordenada
 
-```html
+```
+html
 <html>
   <head>
   </head>
 </html>
-````
+```
 
 [link] (URL "Texto alternativo")
 

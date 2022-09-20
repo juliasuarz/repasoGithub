@@ -12,3 +12,6 @@ __*este texto aparece en cursiva y negrita*__
 
 hola me llamo _julia_
 
+1. lista
+2. lista 
+...1 

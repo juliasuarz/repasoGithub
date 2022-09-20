@@ -32,7 +32,7 @@ html
 </html>
 ```
 
-[link] (URL "Texto alternativo")
+[acceder wiki] ([URL](https://es.wikipedia.org/wiki/Wikipedia:Portada) "opa")
 
 ![image](1200px-Wikipedia-logo-v2.svg.png)
 

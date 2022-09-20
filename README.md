@@ -36,5 +36,12 @@ html
 
 ![image](1200px-Wikipedia-logo-v2.svg.png)
 
+
+| Encabezado | Encabezado 2 | Encabezado 3 |
+| ---------- | :----------: | -----------: | 
+| Item 1| Boligrafos| 20$ | 
+| Item 2| Grapadora| 100$ |
+
+
   
     

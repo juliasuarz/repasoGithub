@@ -12,6 +12,14 @@ __*este texto aparece en cursiva y negrita*__
 
 hola me llamo _julia_
 
-1. lista
-2. lista 
-..1. bla
+1. primer elemento    
+2. segundo elemento 
+
+* primer elemento lista desordenada
+* segundo elemento lista desordenada
+
+- primer elemento lista desordenada
+- segundo elemento lista desordenada
+
++ primer elemento lista desordenada
++ segundo elemento lista desordenada

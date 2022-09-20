@@ -29,7 +29,9 @@ hola me llamo _julia_
   <head>
   </head>
 </html>
-````[link] (URL "Texto alternativo")
+````
+
+[link] (URL "Texto alternativo")
 
 ![image](1200px-Wikipedia-logo-v2.svg.png)
 
